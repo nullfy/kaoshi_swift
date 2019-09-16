@@ -1,6 +1,6 @@
 
-## Useage
+## 使用
 
-### cd [project path]
+1、cd [project path]
 
-### pod install
+2、pod install
